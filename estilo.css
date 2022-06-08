@@ -41,7 +41,7 @@ main{
     height: 50px;
     justify-content: space-between;
     align-items: center;
-    color: #040A25;
+    color: #EDEBE9;
 }
 .input input {
     width: 200px;
@@ -58,6 +58,7 @@ main{
 }
 input label{
     font: bold 1,5rem serif;
+    color: #EDEBE9;
     
 }
 
