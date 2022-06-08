@@ -1,5 +1,5 @@
 body{
-    background: #d4d4d4;
+    background: #EDEBE9;
 }
 
 main{
@@ -9,11 +9,12 @@ main{
     justify-content: center;
     text-align: center;
     padding-top: 40px;
+    background:  #EDEBE9;
 }
 .container{
     display: flex;
     flex-direction: column;
-    background: #252525;
+    background:  #2146E8;
     width: 400px;
     height: 600px;
     align-items: center;
@@ -29,8 +30,8 @@ main{
    width: 100%;
    height: 50px;
    font: bold 2.5rem serif;
-   color: blueviolet;
-   border-bottom: solid 5px blueviolet;
+   color: #EDEBE9;
+   border-bottom: solid 5px #EDEBE9;
    margin-bottom: 20px;
 
 }
@@ -40,7 +41,7 @@ main{
     height: 50px;
     justify-content: space-between;
     align-items: center;
-    color: blueviolet
+    color: #040A25;
 }
 .input input {
     width: 200px;
@@ -50,8 +51,8 @@ main{
     outline: 0;
     font: bold 1.5rem serif;
     text-align: center;
-    background: #454545;
-    color: antiquewhite;
+    background: #EDEBE9;
+    color: #040A25;
     
 
 }
@@ -64,12 +65,13 @@ button {
     width: 300px;
     height: 40px;
     font: bold 1,2rem serif;
-    background-color: blueviolet;
-    color:black;
+    background: #0C1E6E;
+    color:#EDEBE9;
     outline: none;
     border-radius: 5px;
+    box-shadow: 0 0 10px black;
     cursor: pointer;
-
+  
 }
 
 .result {
@@ -81,8 +83,8 @@ button {
     border-radius: 5px;
     font: italic 1.5rem serif;
     box-shadow: 0 0 10px black;
-    background: #454545;
-    color: blueviolet;
+    background: #EDEBE9;
+    color: #040A25;
     padding: 20px;
     box-sizing: border-box;
     user-select: none;
