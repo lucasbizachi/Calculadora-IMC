@@ -59,7 +59,7 @@ main{
 
 }
 input label{
-    font: bold 1,5rem serif;
+    font: bold 1.5rem serif;
     color: #EDEBE9;
     
 }
@@ -67,13 +67,15 @@ input label{
 button {
     width: 300px;
     height: 40px;
-    font: bold 1,2rem serif;
+    font: bold 1.2rem serif;
+    letter-spacing: 2px;
     background: #0C1E6E;
     color:#EDEBE9;
     outline: none;
     border-radius: 5px;
-    box-shadow: 0 0 10px black;
+    box-shadow: 0 5px 10px black;
     cursor: pointer;
+    border: none;
   
 }
 
